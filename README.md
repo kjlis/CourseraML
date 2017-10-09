@@ -21,3 +21,13 @@ Features included in this implementation:
 * sigmoid function
 * cost and gradient functions for logistic regression
 * cost and gradient functions for regularized logistic regression
+
+## Ex3 - Neural Networks
+Implementation one-vs-all logistic regression and neural networks that recognize hand-written digits.
+For full description of the problem, please refer to *ex3.pdf* file.
+
+Features included in this implementation:
+* logistic regression cost function
+* one-vs-all multi-class classifier
+* prediction using a one-vs-all multi-class classifier
+* prediction using Neural Network
