@@ -33,10 +33,20 @@ Features included in this implementation:
 * prediction using Neural Network
 
 ## Ex4 - Neural Networks Learning
-Implementation of implement the backpropagation algorithm for neural networks. It was applied to the task of hand-written digit recognition.
+Implementation of the backpropagation algorithm for neural networks. It was applied to the task of hand-written digit recognition.
 For full description of the problem, please refer to *ex4.pdf* file.
 
 Features included in this implementation:
 * sigmoid gradient
 * random weights initialization
 * NN cost function
+
+## Ex5 - Regularized Linear Regression and Bias v.s. Variance
+Implementation of regularized linear regression and analysis of models with different bias-variance properties.
+For full description of the problem, please refer to *ex5.pdf* file.
+
+Features included in this implementation:
+* regularized linear regression cost function
+* learning curve
+* mapping data into polynomial feature space
+* cross validation curve
