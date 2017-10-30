@@ -50,3 +50,13 @@ Features included in this implementation:
 * learning curve
 * mapping data into polynomial feature space
 * cross validation curve
+
+## Ex6 - Support Vector Machines
+Implementation of spam classifier based on SVMs.
+For full description of the problem, please refer to *ex6.pdf* file.
+
+Features included in this implementation:
+* Gaussian kernel for SVM
+* C and sigma parameters selection
+* email preprocessing
+* feature extraction from email
