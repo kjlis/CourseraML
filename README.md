@@ -73,3 +73,13 @@ Features included in this implementation:
 * finding closest centroids (usedin K-means)
 * computing centroid means (used in K-means)
 * initialization for K-means centroids
+
+## Ex7 - Anomaly Detection and Recommender Systems
+Implementation of the anomaly detection algorithm and applying it to detect failing servers on a network. 
+In the second part, collaborative filtering is used to build a recommender system for movies.
+For full description of the problem, please refer to *ex8.pdf* file.
+
+Features included in this implementation:
+* estimate the parameters of a Gaussian distribution with a diagonal covariance matrix
+* find a threshold for anomaly detection
+* cost function for collaborative filtering
