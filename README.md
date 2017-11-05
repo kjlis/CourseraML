@@ -60,3 +60,16 @@ Features included in this implementation:
 * C and sigma parameters selection
 * email preprocessing
 * feature extraction from email
+
+## Ex7 - K-means Clustering and Principal Component Analysis
+Implementation of K-means clustering algorithm and its usage for image compression.
+In the second part, principal component analysis is used to find a low-dimensional representation of face images.
+For full description of the problem, please refer to *ex7.pdf* file.
+
+Features included in this implementation:
+* principal component analysis
+* projecting a data set into a lower dimensional space
+* recovering the original data from the projection
+* finding closest centroids (usedin K-means)
+* computing centroid means (used in K-means)
+* initialization for K-means centroids
