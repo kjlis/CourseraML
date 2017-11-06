@@ -74,7 +74,7 @@ Features included in this implementation:
 * computing centroid means (used in K-means)
 * initialization for K-means centroids
 
-## Ex7 - Anomaly Detection and Recommender Systems
+## Ex8 - Anomaly Detection and Recommender Systems
 Implementation of the anomaly detection algorithm and applying it to detect failing servers on a network. 
 In the second part, collaborative filtering is used to build a recommender system for movies.
 For full description of the problem, please refer to *ex8.pdf* file.
